@@ -1,0 +1,458 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_6009_qishou",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "neiquan_00": {
+        "comps": {
+          "cc.Sprite": {}
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": -180
+            }
+          ]
+        }
+      },
+      "waiquan_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": 320
+            }
+          ]
+        }
+      },
+      "lizijuji_00": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "8d4e0121-bc9f-4554-aa4e-214f5ebc6eab"
+                }
+              },
+              {
+                "frame": 0.05,
+                "value": {
+                  "__uuid__": "7af456ed-6925-4807-8874-9542cacde8d6"
+                }
+              },
+              {
+                "frame": 0.1,
+                "value": {
+                  "__uuid__": "3b0b8c92-9d17-42ac-a07a-d734b80f151c"
+                }
+              },
+              {
+                "frame": 0.15,
+                "value": {
+                  "__uuid__": "1d577570-11ef-44f7-8808-1bfb982c0d14"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "b41ee0e9-a13a-4979-b782-cbdc00d0fc15"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "616b7c70-ed33-4e5d-baac-5d89c7df6913"
+                }
+              },
+              {
+                "frame": 0.3,
+                "value": {
+                  "__uuid__": "8c93ee58-bacb-40af-b6ea-2a75b168c029"
+                }
+              },
+              {
+                "frame": 0.35,
+                "value": {
+                  "__uuid__": "8450b146-83b7-4d8d-b3c3-8e2e49bd52be"
+                }
+              },
+              {
+                "frame": 0.4,
+                "value": {
+                  "__uuid__": "ee30584a-4d51-4823-9304-2de779acd694"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.45,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "kuangglow_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.1,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.2
+            },
+            {
+              "frame": 0.55,
+              "value": 1.5
+            },
+            {
+              "frame": 0.75,
+              "value": 1.7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.1,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 1.2
+            },
+            {
+              "frame": 0.55,
+              "value": 1.5
+            },
+            {
+              "frame": 0.75,
+              "value": 1.7
+            }
+          ]
+        }
+      },
+      "flash11_00": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.55,
+              "value": 1.8
+            },
+            {
+              "frame": 0.75,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.55,
+              "value": 1.8
+            },
+            {
+              "frame": 0.75,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "baoqiquan_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.65,
+              "value": 255
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.55,
+              "value": 1
+            },
+            {
+              "frame": 0.7,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.55,
+              "value": 1
+            },
+            {
+              "frame": 0.7,
+              "value": 1.2
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.55,
+                "value": {
+                  "__uuid__": "079b702d-b887-477b-bec5-a066a1ce4d8e"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "78b14638-2ded-4560-b3c9-18f0e56b74a4"
+                }
+              },
+              {
+                "frame": 0.65,
+                "value": {
+                  "__uuid__": "8cb21844-4824-44c2-953a-2c0f45e0f3c2"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "quan_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.35,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.5
+            },
+            {
+              "frame": 0.35,
+              "value": 0.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.5
+            },
+            {
+              "frame": 0.35,
+              "value": 0.4
+            }
+          ]
+        }
+      },
+      "baoqi_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 255
+            },
+            {
+              "frame": 0.65,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.55,
+                "value": {
+                  "__uuid__": "38df1ee9-956a-47e6-a4c9-0a0fe5f777ea"
+                }
+              },
+              {
+                "frame": 0.6,
+                "value": {
+                  "__uuid__": "fc12c2ed-bdc0-4d1e-93f3-4186bb3ce45a"
+                }
+              },
+              {
+                "frame": 0.65,
+                "value": {
+                  "__uuid__": "5a655bc3-e883-4789-937c-12a1b6c7b183"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "glow00_00": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 0.55,
+              "value": 4
+            },
+            {
+              "frame": 0.75,
+              "value": 5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 0.55,
+              "value": 4
+            },
+            {
+              "frame": 0.75,
+              "value": 5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.55,
+              "value": 128
+            },
+            {
+              "frame": 0.75,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    }
+  ]
+}

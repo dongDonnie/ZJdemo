@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_tanceruodian_xuli",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.75,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "hongkuang1_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 178
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 178
+            },
+            {
+              "frame": 1.3,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 178
+            },
+            {
+              "frame": 1.7,
+              "value": 255
+            },
+            {
+              "frame": 1.9,
+              "value": 178
+            },
+            {
+              "frame": 2.1,
+              "value": 255
+            },
+            {
+              "frame": 2.3,
+              "value": 178
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 2.7,
+              "value": 178
+            },
+            {
+              "frame": 2.9,
+              "value": 255
+            },
+            {
+              "frame": 3.1,
+              "value": 178
+            },
+            {
+              "frame": 3.3,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 178
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "huangguag_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 178
+            },
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 178
+            },
+            {
+              "frame": 1.3,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 178
+            },
+            {
+              "frame": 1.7,
+              "value": 255
+            },
+            {
+              "frame": 1.9,
+              "value": 178
+            },
+            {
+              "frame": 2.1,
+              "value": 255
+            },
+            {
+              "frame": 2.3,
+              "value": 178
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 2.7,
+              "value": 178
+            },
+            {
+              "frame": 2.9,
+              "value": 255
+            },
+            {
+              "frame": 3.1,
+              "value": 178
+            },
+            {
+              "frame": 3.3,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 178
+            },
+            {
+              "frame": 3.75,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

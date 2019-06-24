@@ -1,0 +1,387 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_lenglingdan_shouji",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.75,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bing1_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.1,
+              "value": 4.5
+            },
+            {
+              "frame": 1.5,
+              "value": 5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.1,
+              "value": 4.5
+            },
+            {
+              "frame": 1.5,
+              "value": 5
+            }
+          ]
+        }
+      },
+      "binglie_00": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.25,
+              "value": 255
+            },
+            {
+              "frame": 1.75,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.05,
+              "value": 3.66
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.05,
+              "value": 2.07
+            }
+          ]
+        }
+      },
+      "gc1_00": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.1,
+              "value": 4
+            },
+            {
+              "frame": 0.25,
+              "value": 5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 0.1,
+              "value": 4
+            },
+            {
+              "frame": 0.25,
+              "value": 5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "baodian00_00": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.5
+            },
+            {
+              "frame": 0.1,
+              "value": 5
+            },
+            {
+              "frame": 0.3,
+              "value": 6
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.5
+            },
+            {
+              "frame": 0.1,
+              "value": 5
+            },
+            {
+              "frame": 0.3,
+              "value": 6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.35,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingling_00": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                102,
+                98
+              ]
+            },
+            {
+              "frame": 0.15,
+              "value": [
+                347,
+                318
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.15,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingling_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                72,
+                -16
+              ]
+            },
+            {
+              "frame": 0.15,
+              "value": [
+                426,
+                -212
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.15,
+              "value": 255
+            },
+            {
+              "frame": 0.2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingling_02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                20,
+                -90
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                161,
+                -553
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.77
+            },
+            {
+              "frame": 0.25,
+              "value": 0.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.77
+            },
+            {
+              "frame": 0.25,
+              "value": 0.4
+            }
+          ]
+        }
+      },
+      "bingling_03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -177,
+                -67
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                -434,
+                -234
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.15,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingling_04": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -153,
+                78
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                -306,
+                131
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 255
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingling_05": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -19,
+                102
+              ]
+            },
+            {
+              "frame": 0.1,
+              "value": [
+                -85,
+                388
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.1,
+              "value": 255
+            },
+            {
+              "frame": 0.15,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

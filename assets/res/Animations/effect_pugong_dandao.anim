@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_pugong_dandao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.17,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Node_dandao": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.3
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.3
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.5
+            }
+          ]
+        }
+      },
+      "": {
+        "props": {
+          "scaleX": [],
+          "scaleY": []
+        }
+      },
+      "pugong_dandao": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.3
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.3
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0.3
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

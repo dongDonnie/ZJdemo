@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "78b00df5-c7be-4caf-a97e-16e1e4f0a52b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "kapai_lizi_00008": {
+      "ver": "1.0.4",
+      "uuid": "70dcdb9a-810a-495f-8ec1-562bf68fdc8d",
+      "rawTextureUuid": "78b00df5-c7be-4caf-a97e-16e1e4f0a52b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -2.5,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 203,
+      "height": 305,
+      "rawWidth": 210,
+      "rawHeight": 310,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

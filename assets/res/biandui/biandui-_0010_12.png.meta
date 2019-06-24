@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "33be33a9-74ad-4d7c-89fd-b991296812da",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "biandui-_0010_12": {
+      "ver": "1.0.4",
+      "uuid": "d996abf1-8a35-4fa2-a647-27026936c771",
+      "rawTextureUuid": "33be33a9-74ad-4d7c-89fd-b991296812da",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 171,
+      "rawWidth": 170,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

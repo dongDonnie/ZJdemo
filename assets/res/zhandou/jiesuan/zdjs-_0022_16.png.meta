@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "783a2dfa-7b29-41d0-99fc-6f941fc0a344",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "zdjs-_0022_16": {
+      "ver": "1.0.4",
+      "uuid": "f96aac5b-dbe7-4c9d-8ec2-881e9c32fa6c",
+      "rawTextureUuid": "783a2dfa-7b29-41d0-99fc-6f941fc0a344",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 72,
+      "rawWidth": 72,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

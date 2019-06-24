@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "84ca2a71-5f83-4ec8-943a-50104a8effbb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "youjian-_0005_gun-lun": {
+      "ver": "1.0.4",
+      "uuid": "e991f64d-5e60-415b-9938-a984daedd219",
+      "rawTextureUuid": "84ca2a71-5f83-4ec8-943a-50104a8effbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 7,
+      "height": 67,
+      "rawWidth": 7,
+      "rawHeight": 67,
+      "borderTop": 4,
+      "borderBottom": 4,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_xidi_qishou",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "glow_00": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.15
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.45,
+              "value": 1.8
+            },
+            {
+              "frame": 0.7,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.15
+            },
+            {
+              "frame": 0.4,
+              "value": 1
+            },
+            {
+              "frame": 0.45,
+              "value": 1.8
+            },
+            {
+              "frame": 0.7,
+              "value": 2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.45,
+              "value": 235
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "glow_01": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0.45,
+              "value": 0.5
+            },
+            {
+              "frame": 0.65,
+              "value": 0.8
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.45,
+              "value": 0.5
+            },
+            {
+              "frame": 0.65,
+              "value": 0.8
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.45,
+              "value": 255
+            },
+            {
+              "frame": 0.65,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "lizisankai_00": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.45
+              },
+              {
+                "frame": 0.5
+              },
+              {
+                "frame": 0.55
+              },
+              {
+                "frame": 0.6
+              },
+              {
+                "frame": 0.65
+              },
+              {
+                "frame": 0.7
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.45,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

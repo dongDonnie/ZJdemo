@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "10142514-7069-4c45-9e6b-589e1b9daee0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "cure_shouji_light_1": {
+      "ver": "1.0.4",
+      "uuid": "34397fe4-bdbd-4105-9433-8dc4476c0569",
+      "rawTextureUuid": "10142514-7069-4c45-9e6b-589e1b9daee0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1.5,
+      "trimX": 6,
+      "trimY": 12,
+      "width": 190,
+      "height": 129,
+      "rawWidth": 200,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "2c80c400-3793-4666-88ac-20a418eb2351",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "xinxi-_0006_gun-lun": {
+      "ver": "1.0.4",
+      "uuid": "4e58cf02-bdd7-43e7-a291-29b7d6a54a45",
+      "rawTextureUuid": "2c80c400-3793-4666-88ac-20a418eb2351",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 7,
+      "height": 67,
+      "rawWidth": 7,
+      "rawHeight": 67,
+      "borderTop": 4,
+      "borderBottom": 4,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
